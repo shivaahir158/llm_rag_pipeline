@@ -34,5 +34,5 @@ A Retrieval-Augmented Generation (RAG) pipeline built with Flask, LangChain, FAI
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/llm_rag_pipeline.git
+git clone https://github.com/shivaahir158/llm_rag_pipeline.git
 cd llm_rag_pipeline
